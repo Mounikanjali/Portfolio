@@ -1,4 +1,4 @@
-![Portfolio Preview](./img/Design.jpg)
+
 
 # One Page Portfolio Website (HTML & CSS Project)
 
